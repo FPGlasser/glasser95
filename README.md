@@ -1,5 +1,4 @@
 - 👋 Hello!
-- 👀 I’m interested in software and Eletronic
 - 🌱 I’m currently learning Web development and information security
 
 <!---
